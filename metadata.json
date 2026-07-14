@@ -1,0 +1,6 @@
+{
+  "name": "Shadows & Scripts",
+  "description": "A modern, premium landing page for Shadows & Scripts, a creative storytelling and visual arts brand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
